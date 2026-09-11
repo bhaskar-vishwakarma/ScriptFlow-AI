@@ -1,5 +1,5 @@
 import streamlit as st
-from project import app
+from project import app 
 
 st.set_page_config(
     page_title="ScriptFlow AI",
