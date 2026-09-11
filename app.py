@@ -3,7 +3,7 @@ from project import app
 
 st.set_page_config(
     page_title="ScriptFlow AI",
-    page_icon="🎬",
+    page_icon="🎬", 
     layout="wide"
 )
 
